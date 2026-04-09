@@ -4,6 +4,7 @@
 
 ---
 
+
 ## Call for Papers
 
 The current static usage model of HPC systems is becoming increasingly inefficient. This is driven by the continuously growing complexity and heterogeneity of system architectures, in combination with the increased usage of coupled applications, the need for strong scaling with extreme scale parallelism, and the increasing reliance on complex and dynamic tasks. Graph-based technologies, including knowledge graphs, ontologies, graph databases, graph analytics, and graph machine learning, are emerging as powerful unifying abstractions across all stages of the scientific research lifecycle. 
