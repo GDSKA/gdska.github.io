@@ -58,7 +58,7 @@ Accepted papers will be published in the IEEE eScience 2026 Workshop Proceedings
 ### Workshop Chairs
 
 - **Gabriele Morabito**, University of Messina, Italy
-- **Martin Schulz**, University Carlos III of Madrid, Spain
+- **Dante D. Sánchez-Gallegos**, University Carlos III of Madrid, Spain
 - **Yannis Tzitzikas**, University of Crete, Greece
 
 ### Program Committee
