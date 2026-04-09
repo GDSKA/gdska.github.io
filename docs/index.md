@@ -35,13 +35,15 @@ Beyond infrastructure and middleware concerns, the workshop welcomes contributio
 - **Notification of Acceptance**: August 1st, 2026
 - **Camera-ready paper due**: August 7th, 2026
 
-* [Submission link](https://easychair.org/conferences?conf=...)
+* [Submission link](https://easychair.org/conferences/?conf=escience2026)
 
 ---
 
 ## Submission Guidelines
 
-Authors submitting papers for GDSKA'26 must do so via the [EasyChair submission web page](https://easychair.org/conferences?conf=...). Authors are invited to submit technical papers of no more than **8 pages** in PDF format, including figures and references. The papers should be formatted according to the IEEE 8.5x11 manuscript guidelines.
+Authors submitting papers for GDSKA'26 must do so via the [EasyChair submission web page](https://easychair.org/conferences/?conf=escience2026). Upon accessing the submission page, authors should click on "make a new submission" and then select the track "The 1st Workshop on Graph Data Science-Driven Knowledge Analysis" from the list of available tracks.
+
+Authors are invited to submit technical papers of no more than **8 pages** in PDF format, including figures and references. The papers should be formatted according to the IEEE 8.5x11 manuscript guidelines.
 
 Submitted papers must contain original work that has not appeared in and is not under consideration for another conference, journal, or workshop. Each paper will receive up to 3 reviews from experts in the area. There will be no revision rebuttal process and the review will be one-pass.
 
