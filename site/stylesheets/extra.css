@@ -1,0 +1,50 @@
+.banner {
+    height: 500px;       /* Height of the banner */
+    /*position: sticky;   /* Follows as you scroll */
+    width: 100%;
+    z-index: 1;         /* Tells the renderer "this is important", otherwise Admonition and Code Blocks will render into it */
+    text-align: center;
+    text-align: center;
+    background-image: url('../imgs/banner.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #215F9A;
+    background-color: rgba(255,255,255,0.6);
+    background-blend-mode: lighten;
+}
+
+
+.banner h1 {
+  font-size: 5em;
+  padding: 10px 0;
+  font-weight: 1800;
+  text-shadow: 1px 1px 2px gray;
+}
+
+.banner p {
+  font-size: 2.2em;
+  font-style: bold;
+  text-shadow: 1px 1px 2px gray;
+  /* letter-spacing: 5px; */
+}
+
+.md-header {
+    top: 12px;          /* This setting prevents the Material header from imposing into the space of the banner! */
+}
+
+/* Bold all main navigation items */
+.md-tabs__link {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+/* Optional: To bold only the top-level items */
+.md-tabs__item > .md-tabs__link {
+    font-weight: bold;
+}
+
+/* Optional: To bold the current active item */
+.md-tabs__link--active {
+    font-weight: bold;
+}

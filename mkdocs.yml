@@ -1,0 +1,68 @@
+site_name: GDSKA'26
+
+theme:
+  name: material
+  custom_dir: overrides
+  features:
+    - content.code.annotate
+    - content.code.copy
+    - content.code.select
+    - toc.follow
+    - toc.integrate 
+  font:
+    text: Open Sans
+    code: Roboto Mono
+  icon:
+    repo: fontawesome/brands/github
+  language: en
+  palette:
+    - primary: indigo
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+plugins:
+  - search:
+      enabled: false
+
+nav:
+  - Home: index.md
+
+extra_css:
+  - stylesheets/extra.css
+
+watch:
+  - mkdocs.yml
+  - docs/
+  - overrides/
+
+markdown_extensions:
+  - attr_list
+  - toc:
+      permalink: true
+
+copyright: >
+    Copyright &copy; 2025-2026 HPCMALL –
+    <a href="#__consent">Change cookie settings</a>
+
+extra:
+  analytics:
+    provider: google
+    property: G-9P94K7ZQDF
+  consent:
+    title: Cookie consent
+    description: >-
+      To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.
+    actions:
+      - accept
+      - manage
+      - reject
+    cookies:
+      analytics:
+        name: Google Analytics
+        checked: true
