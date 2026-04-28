@@ -63,6 +63,17 @@ Accepted papers will be published in the IEEE eScience 2026 Workshop Proceedings
 - **Dante D. Sánchez-Gallegos**, University Carlos III of Madrid, Spain
 - **Yannis Tzitzikas**, University of Crete, Greece
 
+### Publicity Chairs
+
+- **Rosario Napoli**, University of Messina, Italy
+- **Yannis Marketakis**, University of Crete, Greece
+
 ### Program Committee
 
-- TBA
+- **Danny De Novi**, University of Messina, Italy
+- **Giovanni Lonia**, University of Messina, Italy
+- **Alessia Antelmi**, University of Turin, Italy
+- **Annamaria Ficara**, University of Messina, Italy
+- **Diana Carrizales-Espinoza**, Cinvestav-Tamaulipas, Mexico
+- **Heidy Marin-Castro**, UPP, Mexico
+- **Maxime Gonthier**, University of Chicago, USA
