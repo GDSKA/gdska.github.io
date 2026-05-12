@@ -59,36 +59,36 @@ Accepted papers will be published in the IEEE eScience 2026 Workshop Proceedings
 
 ### Workshop Chairs
 
-<div class="people-grid">
-  <div class="person-card">
-    <img src="imgs/chairs/morabito.jpg" alt="Gabriele Morabito">
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; margin: 1.5rem 0;">
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 170px;">
+    <img src="imgs/chairs/morabito.jpg" alt="Gabriele Morabito" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; object-position: center top; margin-bottom: 0.6rem;">
     <strong>Gabriele Morabito</strong><br>
-    <span>University of Messina, Italy</span>
+    <span style="font-size: 0.8rem;">University of Messina, Italy</span>
   </div>
-  <div class="person-card">
-    <img src="imgs/chairs/sanchez-gallegos.jpeg" alt="Dante D. Sánchez-Gallegos">
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 170px;">
+    <img src="imgs/chairs/sanchez-gallegos.jpeg" alt="Dante D. Sánchez-Gallegos" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; object-position: center top; margin-bottom: 0.6rem;">
     <strong>Dante D. Sánchez-Gallegos</strong><br>
-    <span>University Carlos III of Madrid, Spain</span>
+    <span style="font-size: 0.8rem;">University Carlos III of Madrid, Spain</span>
   </div>
-  <div class="person-card">
-    <img src="imgs/chairs/tzitzikas.jpg" alt="Yannis Tzitzikas">
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 170px;">
+    <img src="imgs/chairs/tzitzikas.jpg" alt="Yannis Tzitzikas" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; object-position: center top; margin-bottom: 0.6rem;">
     <strong>Yannis Tzitzikas</strong><br>
-    <span>University of Crete, Greece</span>
+    <span style="font-size: 0.8rem;">University of Crete, Greece</span>
   </div>
 </div>
 
 ### Publicity Chairs
 
-<div class="people-grid">
-  <div class="person-card">
-    <img src="imgs/chairs/napoli.jpg" alt="Rosario Napoli">
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; margin: 1.5rem 0;">
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 170px;">
+    <img src="imgs/chairs/napoli.jpg" alt="Rosario Napoli" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; object-position: center top; margin-bottom: 0.6rem;">
     <strong>Rosario Napoli</strong><br>
-    <span>University of Messina, Italy</span>
+    <span style="font-size: 0.8rem;">University of Messina, Italy</span>
   </div>
-  <div class="person-card">
-    <img src="imgs/chairs/marketakis.jpg" alt="Yannis Marketakis">
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 170px;">
+    <img src="imgs/chairs/marketakis.jpg" alt="Yannis Marketakis" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; object-position: center top; margin-bottom: 0.6rem;">
     <strong>Yannis Marketakis</strong><br>
-    <span>University of Crete, Greece</span>
+    <span style="font-size: 0.8rem;">University of Crete, Greece</span>
   </div>
 </div>
 
