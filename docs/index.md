@@ -59,14 +59,38 @@ Accepted papers will be published in the IEEE eScience 2026 Workshop Proceedings
 
 ### Workshop Chairs
 
-- **Gabriele Morabito**, University of Messina, Italy
-- **Dante D. Sánchez-Gallegos**, University Carlos III of Madrid, Spain
-- **Yannis Tzitzikas**, University of Crete, Greece
+<div class="people-grid">
+  <div class="person-card">
+    <img src="imgs/chairs/morabito.jpg" alt="Gabriele Morabito">
+    <strong>Gabriele Morabito</strong><br>
+    <span>University of Messina, Italy</span>
+  </div>
+  <div class="person-card">
+    <img src="imgs/chairs/sanchez-gallegos.jpeg" alt="Dante D. Sánchez-Gallegos">
+    <strong>Dante D. Sánchez-Gallegos</strong><br>
+    <span>University Carlos III of Madrid, Spain</span>
+  </div>
+  <div class="person-card">
+    <img src="imgs/chairs/tzitzikas.jpg" alt="Yannis Tzitzikas">
+    <strong>Yannis Tzitzikas</strong><br>
+    <span>University of Crete, Greece</span>
+  </div>
+</div>
 
 ### Publicity Chairs
 
-- **Rosario Napoli**, University of Messina, Italy
-- **Yannis Marketakis**, University of Crete, Greece
+<div class="people-grid">
+  <div class="person-card">
+    <img src="imgs/chairs/napoli.jpg" alt="Rosario Napoli">
+    <strong>Rosario Napoli</strong><br>
+    <span>University of Messina, Italy</span>
+  </div>
+  <div class="person-card">
+    <img src="imgs/chairs/marketakis.jpg" alt="Yannis Marketakis">
+    <strong>Yannis Marketakis</strong><br>
+    <span>University of Crete, Greece</span>
+  </div>
+</div>
 
 ### Program Committee
 

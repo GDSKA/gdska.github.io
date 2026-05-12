@@ -93,3 +93,40 @@
 .md-tabs__link--active {
     font-weight: bold;
 }
+
+.people-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  margin: 1.5rem 0;
+  justify-content: flex-start;
+}
+
+.person-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  width: 170px;
+}
+
+.person-card img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center top;
+  margin-bottom: 0.6rem;
+}
+
+.person-card strong {
+  font-size: 0.85rem;
+  line-height: 1.3;
+}
+
+.person-card p,
+.person-card br + * {
+  font-size: 0.8rem;
+  color: var(--md-default-fg-color--light);
+  margin: 0;
+}
