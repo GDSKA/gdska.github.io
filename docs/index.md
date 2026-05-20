@@ -1,4 +1,4 @@
-# 1st International Workshop on Graph-Driven Scientific Knowledge Architectures (GDSKA'26)
+# 1st International Workshop on Graph Data Science-Driven Knowledge Analysis (GDSKA'26)
 
 **Co-located with IEEE eScience 2026**
 
