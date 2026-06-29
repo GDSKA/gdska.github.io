@@ -31,7 +31,7 @@ Beyond infrastructure and middleware concerns, the workshop welcomes contributio
 
 ## Important Dates
 
-- **Paper submission**: July 14th, 2026 (AoE)
+- **Paper submission**: <del>July 14th, 2026 (AoE)</del> <strong style="color:#cc0000">July 20th, 2026 (AoE)</strong>
 - **Notification of Acceptance**: August 1st, 2026
 - **Camera-ready paper due**: August 7th, 2026
 
