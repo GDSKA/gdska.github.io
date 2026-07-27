@@ -98,5 +98,5 @@ Accepted papers will be published in the IEEE eScience 2026 Workshop Proceedings
 - **Giovanni Lonia**, University of Messina, Italy
 - **Annamaria Ficara**, University of Messina, Italy
 - **Diana Carrizales-Espinoza**, Cinvestav-Tamaulipas, Mexico
-- **Genaro Sánchez-Gallegos**, Universidad Carlos III de Madrid
-- **Catherine	Torres Charles**, Universidad Carlos III de Madrid
+- **Genaro Sánchez-Gallegos**, Universidad Carlos III de Madrid, Spain
+- **Catherine	Torres Charles**, Universidad Carlos III de Madrid, Spain
