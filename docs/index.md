@@ -96,8 +96,7 @@ Accepted papers will be published in the IEEE eScience 2026 Workshop Proceedings
 
 - **Danny De Novi**, University of Messina, Italy
 - **Giovanni Lonia**, University of Messina, Italy
-- **Alessia Antelmi**, University of Turin, Italy
 - **Annamaria Ficara**, University of Messina, Italy
 - **Diana Carrizales-Espinoza**, Cinvestav-Tamaulipas, Mexico
-- **Heidy Marin-Castro**, UPP, Mexico
-- **Maxime Gonthier**, University of Chicago, USA
+- **Genaro Sánchez-Gallegos**, Universidad Carlos III de Madrid
+- **Catherine	Torres Charles**, Universidad Carlos III de Madrid
