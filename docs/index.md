@@ -1,4 +1,4 @@
-# 1st International Workshop on Graph-Driven Scientific Knowledge Architectures (GDSKA'26)
+# 1st International Workshop on Graph Data Science-Driven Knowledge Analysis (GDSKA'26)
 
 **Co-located with IEEE eScience 2026**
 
@@ -21,7 +21,7 @@
 
 ## Call for Papers
 
-The current static usage model of HPC systems is becoming increasingly inefficient. This is driven by the continuously growing complexity and heterogeneity of system architectures, in combination with the increased usage of coupled applications, the need for strong scaling with extreme scale parallelism, and the increasing reliance on complex and dynamic tasks. Graph-based technologies, including knowledge graphs, ontologies, graph databases, graph analytics, and graph machine learning, are emerging as powerful unifying abstractions across all stages of the scientific research lifecycle. 
+Graph-based technologies, including knowledge graphs, ontologies, graph databases, graph analytics, and graph machine learning, are emerging as powerful unifying abstractions across all stages of the scientific research lifecycle. 
 
 This workshop explores how these technologies can be applied to represent and integrate knowledge, model workflow dependencies, enable semantic interoperability across heterogeneous datasets, and support resource discovery, reasoning, and orchestration in distributed computing environments, including HPC, Cloud, Edge, and IoT infrastructures spanning the computing continuum.
 
@@ -45,17 +45,19 @@ Beyond infrastructure and middleware concerns, the workshop welcomes contributio
 
 ## Important Dates
 
-- **Paper submission**: July 14th, 2026 (AoE)
+- **Paper submission**: <del>July 14th, 2026 (AoE)</del> <strong style="color:#cc0000">July 25th, 2026 (AoE)</strong>
 - **Notification of Acceptance**: August 1st, 2026
 - **Camera-ready paper due**: August 7th, 2026
 
-* [Submission link](https://easychair.org/conferences?conf=...)
+* [Submission link](https://easychair.org/conferences/?conf=escience2026)
 
 ---
 
 ## Submission Guidelines
 
-Authors submitting papers for GDSKA'26 must do so via the [EasyChair submission web page](https://easychair.org/conferences?conf=...). Authors are invited to submit technical papers of no more than **8 pages** in PDF format, including figures and references. The papers should be formatted according to the IEEE 8.5x11 manuscript guidelines.
+Authors submitting papers for GDSKA'26 must do so via the [EasyChair submission web page](https://easychair.org/conferences/?conf=escience2026). Upon accessing the submission page, authors should click on "make a new submission" and then select the track "The 1st Workshop on Graph Data Science-Driven Knowledge Analysis" from the list of available tracks.
+
+Authors are invited to submit technical papers of no more than **8 pages** in PDF format, including figures and references. The papers should be formatted according to the IEEE 8.5x11 manuscript guidelines.
 
 Submitted papers must contain original work that has not appeared in and is not under consideration for another conference, journal, or workshop. Each paper will receive up to 3 reviews from experts in the area. There will be no revision rebuttal process and the review will be one-pass.
 
@@ -71,10 +73,44 @@ Accepted papers will be published in the IEEE eScience 2026 Workshop Proceedings
 
 ### Workshop Chairs
 
-- **Gabriele Morabito**, University of Messina, Italy
-- **Dante D. Sánchez-Gallegos**, University Carlos III of Madrid, Spain
-- **Yannis Tzitzikas**, University of Crete, Greece
+<div class="people-grid">
+  <div class="person-card">
+    <img src="imgs/chairs/morabito.jpg" alt="Gabriele Morabito">
+    <strong>Gabriele Morabito</strong><br>
+    <span>University of Messina, Italy</span>
+  </div>
+  <div class="person-card">
+    <img src="imgs/chairs/sanchez-gallegos.jpeg" alt="Dante D. Sánchez-Gallegos">
+    <strong>Dante D. Sánchez-Gallegos</strong><br>
+    <span>University Carlos III of Madrid, Spain</span>
+  </div>
+  <div class="person-card">
+    <img src="imgs/chairs/tzitzikas.jpg" alt="Yannis Tzitzikas">
+    <strong>Yannis Tzitzikas</strong><br>
+    <span>University of Crete, Greece</span>
+  </div>
+</div>
+
+### Publicity Chairs
+
+<div class="people-grid">
+  <div class="person-card">
+    <img src="imgs/chairs/napoli.jpg" alt="Rosario Napoli">
+    <strong>Rosario Napoli</strong><br>
+    <span>University of Messina, Italy</span>
+  </div>
+  <div class="person-card">
+    <img src="imgs/chairs/marketakis.jpg" alt="Yannis Marketakis">
+    <strong>Yannis Marketakis</strong><br>
+    <span>University of Crete, Greece</span>
+  </div>
+</div>
 
 ### Program Committee
 
-- TBA
+- **Danny De Novi**, University of Messina, Italy
+- **Giovanni Lonia**, University of Messina, Italy
+- **Annamaria Ficara**, University of Messina, Italy
+- **Diana Carrizales-Espinoza**, Cinvestav-Tamaulipas, Mexico
+- **Genaro Sánchez-Gallegos**, Universidad Carlos III de Madrid, Spain
+- **Catherine	Torres Charles**, Universidad Carlos III de Madrid, Spain
