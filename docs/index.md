@@ -14,7 +14,7 @@
 | **15:20 – 15:50** | Knowledge Graph-based Workflow Validation Using PROV Graphs | Valantis Zervos |
 | **15:50 – 16:30** | *Break* | — |
 | **16:30 – 17:00** | From Simple Road Graphs to Event-Centric Knowledge Graphs for Urban Road Safety Analysis | Gabriele Morabito |
-| **17:00 – 17:45** | Keynote or Panel or Both | Maria Fazio |
+| **17:00 – 17:45** | Keynote | Maria Fazio |
 | **17:45 – 17:55** | Panel: "Impact of KG in Systems and Applications" | All Authors |
 | **17:55 – 18:00** | Closing | Organizers |
 
